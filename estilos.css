@@ -1,0 +1,38 @@
+body {
+    background-color: tomato
+}
+
+h1 {
+    color: bisque;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Noto Serif', serif;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#cuadro {
+    background-color: antiquewhite;
+    height: 40%;
+    width: 895px;
+    margin-left: 40px;
+}
+
+button {
+    margin-left: 67%;
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#chuck {
+    float: right;
+    margin-right: 80px;
+    border-radius: 50px;
+}
